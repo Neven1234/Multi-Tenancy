@@ -1,0 +1,23 @@
+﻿@MultiTenancy_HostAddress = https://localhost:7115
+
+
+GET {{MultiTenancy_HostAddress}}/api/product
+tenant: facebook
+
+###
+
+POST {{MultiTenancy_HostAddress}}/api/product
+tenant: facebook
+Content-Type: application/json
+
+{
+  "name":"p2",
+  "description":"sdsd",
+  "rate":4
+}
+
+###
+
+GET {{MultiTenancy_HostAddress}}/api/product/1
+tenant: devcreed
+###

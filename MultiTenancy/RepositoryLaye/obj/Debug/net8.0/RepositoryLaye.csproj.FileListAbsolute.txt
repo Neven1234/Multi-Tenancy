@@ -1,0 +1,5 @@
+D:\Learn C#\MultiTenancy\RepositoryLaye\obj\Debug\net8.0\RepositoryLaye.csproj.AssemblyReference.cache
+D:\Learn C#\MultiTenancy\RepositoryLaye\obj\Debug\net8.0\RepositoryLaye.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\MultiTenancy\RepositoryLaye\obj\Debug\net8.0\RepositoryLaye.AssemblyInfoInputs.cache
+D:\Learn C#\MultiTenancy\RepositoryLaye\obj\Debug\net8.0\RepositoryLaye.AssemblyInfo.cs
+D:\Learn C#\MultiTenancy\RepositoryLaye\obj\Debug\net8.0\RepositoryLaye.csproj.CoreCompileInputs.cache
